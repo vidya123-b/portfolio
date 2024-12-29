@@ -223,8 +223,10 @@ section .title::after {
   padding: 1px 0px 0px 112px
 }
 .right-img img {
-  border-radius: 50%;
+  border-radius: 2px  5%;
   box-shadow: 2px 2px 5px beige;
+  height: 400px;
+  width: 300px;
 
 
 }
@@ -237,9 +239,9 @@ section .title::after {
   width: 45%;
 }
 .about .about-content .left img {
-  height: 400px;
+  height: 450px;
   width: 400px;
-  object-fit: cover;
+  object-fit:cover;
   border-radius: 6px;
 }
 .about .about-content .right {
